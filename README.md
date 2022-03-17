@@ -1,4 +1,4 @@
-# A cooperative knock-on mechanism underpins Ca<sup>2+</sup>-selective cation permeation in TRPV channels
+# A co-operative knock-on mechanism underpins Ca<sup>2+</sup>-selective cation permeation in TRPV channels
 
 This repository contains the molecular dynamics input files, and analysis scripts developed and associated with the publication Ives, Thomson and Zachariae, 2021.
 
